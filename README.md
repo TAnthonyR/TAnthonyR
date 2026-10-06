@@ -1,35 +1,36 @@
-# Hola, soy Anthony Reinoso
+<p align="center"><img src="portada.svg" alt="Anthony Reinoso — Código, señales y aprendizaje automático" width="100%"></p>
 
-Este portafolio reúne proyectos académicos de recuperación de información, computación distribuida, procesamiento de señales y aprendizaje automático realizados en el contexto de la Escuela Politécnica Nacional.
+<h1 align="center">Hola 👋, soy Anthony Reinoso</h1>
+<p align="center"><strong>Recuperación de información · Redes · Procesamiento de señales · Aprendizaje automático</strong></p>
+
+Este espacio reúne mis proyectos académicos realizados en el contexto de la **Escuela Politécnica Nacional**. Me interesa convertir ideas en programas que se puedan explorar y probar: desde buscadores por texto e imagen hasta clientes de red y modelos para señales.
+
+<p align="center"><a href="https://github.com/TAnthonyR?tab=repositories">Explorar repositorios</a> · <a href="#proyectos-destacados">Ver proyectos</a></p>
+
+## Tecnologías utilizadas
+
+![Lenguajes y herramientas utilizados en los proyectos](tecnologias.svg)
+
+Python, C, MATLAB y JavaScript para la implementación; Flask para interfaces de búsqueda; PyTorch, NumPy, scikit-learn, CLIP y FAISS para los modelos y el procesamiento. El cliente FTP utiliza sockets y procesos POSIX en Linux.
 
 ## Proyectos destacados
 
-| Proyecto | Qué permite explorar | Tecnologías |
+| Proyecto | Qué hace | Tecnologías |
 |---|---|---|
-| [Buscador TF-IDF y BM25](https://github.com/TAnthonyR/buscador-tfidf-bm25) | Comparar recuperación de documentos y métricas de relevancia | Python, Flask, scikit-learn |
-| [Buscador Yu-Gi-Oh!](https://github.com/TAnthonyR/Proyecto-IIB) | Buscar cartas por texto e imagen | Python, CLIP, FAISS, JavaScript |
-| [Cliente FTP concurrente](https://github.com/TAnthonyR/ReinosoA-clienteFTP) | Transferir archivos mediante sockets y procesos | C, POSIX, Linux |
-| [Sonido 3D con HRTF](https://github.com/TAnthonyR/sonido-3d-hrtf) | Simular una fuente sonora alrededor del oyente | MATLAB, convolución, audio binaural |
-| [Interpolador de señales con RNA](https://github.com/TAnthonyR/interpolador-senales-rna) | Predecir señales a partir de coordenadas espaciales | Python, PyTorch, NumPy |
+| 🔎 **[Proyecto — Buscador TF-IDF y BM25](https://github.com/TAnthonyR/Proyecto-Buscador-TF-IDF-BM25)** | Ordena documentos por relevancia y compara dos métodos de recuperación. | Python · Flask · scikit-learn |
+| 🃏 **[Proyecto — Buscador de cartas Yu-Gi-Oh!](https://github.com/TAnthonyR/Proyecto-Buscador-de-cartas-Yu-Gi-Oh)** | Encuentra cartas por texto e imagen en una interfaz web. | Python · CLIP · FAISS · JavaScript |
+| 🌐 **[Proyecto — Cliente FTP concurrente](https://github.com/TAnthonyR/Proyecto-Cliente-FTP-Concurrente)** | Transfiere archivos mediante sockets y procesos hijos. | C · POSIX · Linux |
+| 🎧 **[Proyecto — Sonido 3D con HRTF](https://github.com/TAnthonyR/Proyecto-Sonido-3D-HRTF)** | Procesa audio para simular una fuente alrededor del oyente. | MATLAB · HRIR · Convolución |
+| 🧠 **[Proyecto — Interpolador de señales con RNA](https://github.com/TAnthonyR/Proyecto-Interpolador-de-Senales-RNA)** | Predice señales a partir de coordenadas espaciales. | Python · PyTorch · NumPy |
 
-## Cómo probarlos
+Cada README incluye **objetivo, estructura, requisitos y pasos de ejecución**. Los conjuntos de datos y modelos pesados se descargan o generan localmente. Los trabajos grupales y los recursos externos conservan sus créditos.
 
-Cada repositorio presenta el objetivo, la estructura, los requisitos y los pasos de ejecución. Los archivos pesados se descargan o generan localmente. Los proyectos grupales y los recursos externos se identifican en sus respectivos créditos.
+## El portafolio en cifras
 
-## Áreas de trabajo
+![Resumen de proyectos y distribución de líneas fuente](resumen-proyectos.svg)
 
-- Recuperación de información y búsqueda multimodal.
-- Programación de redes y computación distribuida.
-- Procesamiento de señales y aprendizaje automático.
+La distribución cuenta líneas no vacías de archivos fuente, incluyendo comentarios, en estos cinco proyectos. Es una fotografía de la selección al 6 de octubre de 2026; no representa toda mi actividad en GitHub ni un nivel de dominio de cada tecnología.
 
-Puedes explorar el código y las instrucciones desde los enlaces de la tabla.
+---
 
-## Vistas de los proyectos
-
-Las capturas y gráficas originales están descritas en cada README. La gráfica TF-IDF/BM25 es una demostración nueva ejecutada con seis documentos de ejemplo.
-
-| Búsqueda documental | Audio binaural |
-|---|---|
-| ![Demo TF-IDF y BM25](https://raw.githubusercontent.com/TAnthonyR/buscador-tfidf-bm25/main/preview-busqueda.png) | ![Audio binaural del informe original](https://raw.githubusercontent.com/TAnthonyR/sonido-3d-hrtf/main/preview-binaural.png) |
-
-![Validación del interpolador original](https://raw.githubusercontent.com/TAnthonyR/interpolador-senales-rna/main/preview-validacion.png)
+<p align="center">Gracias por visitar mi portafolio. Puedes explorar el código, los experimentos y sus instrucciones desde cada proyecto.</p>

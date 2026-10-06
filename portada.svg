@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-label="Anthony Reinoso: código, señales y aprendizaje automático">
+<rect width="1100" height="280" rx="20" fill="#101c30"/>
+<path d="M700 0V280M850 0V280M1000 0V280M650 70H1100M650 140H1100M650 210H1100" stroke="#223451" stroke-width="1"/>
+<path d="M660 160H720L735 120L755 210L780 75L805 160H850L865 130L888 180L910 160H1060" fill="none" stroke="#39d3ca" stroke-width="4"/>
+<circle cx="735" cy="120" r="6" fill="#67bcff"/><circle cx="780" cy="75" r="6" fill="#67bcff"/><circle cx="888" cy="180" r="6" fill="#67bcff"/>
+<text x="48" y="62" fill="#39d3ca" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="3">PORTAFOLIO DE PROYECTOS</text>
+<text x="45" y="127" fill="#f5f8ff" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Anthony Reinoso</text>
+<text x="48" y="174" fill="#c1d2e8" font-family="Segoe UI,Arial,sans-serif" font-size="22">Código · Señales · Aprendizaje automático</text>
+<rect x="48" y="214" width="256" height="32" rx="16" fill="#213e60"/>
+<text x="64" y="236" fill="#e3efff" font-family="Segoe UI,Arial,sans-serif" font-size="15">Escuela Politécnica Nacional</text>
+</svg>
